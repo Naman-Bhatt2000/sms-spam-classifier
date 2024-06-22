@@ -8,7 +8,7 @@ ps = PorterStemmer()
 
 
 def transform_text(text):
-    # lowercase
+    # lowercasep
     text = text.lower()
 
     # Tokenization
